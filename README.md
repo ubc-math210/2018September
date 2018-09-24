@@ -13,3 +13,4 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 | September 14 | [notes-2018-09-14](notes-week-02/notes-2018-09-14.ipynb) |  Series and functions | [Taylor series](https://en.wikipedia.org/wiki/Taylor_series) and [functions](http://www.math.ubc.ca/~pwalls/math-python/python/functions/) |
 | September 17 | [notes-2018-09-17](notes-week-03/notes-2018-09-17.ipynb) |  Functions and logic | [Functions](http://www.math.ubc.ca/~pwalls/math-python/python/functions/) and [logic](http://www.math.ubc.ca/~pwalls/math-python/python/logic/) |
 | September 19 | [notes-2018-09-19](notes-week-03/notes-2018-09-19.ipynb) |  Logic and loops | [Logic](http://www.math.ubc.ca/~pwalls/math-python/python/logic/) and [loops](http://www.math.ubc.ca/~pwalls/math-python/python/loops/) |
+| September 21 | [notes-2018-09-21](notes-week-03/notes-2018-09-21.ipynb) |  For loops and while loops | [Loops](http://www.math.ubc.ca/~pwalls/math-python/python/loops/) |
