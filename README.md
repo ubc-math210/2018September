@@ -19,3 +19,7 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 | September 28 | [notes-2018-09-28](notes-week-04/notes-2018-09-28.ipynb) |  Newton's method | [Roots and optimization](http://www.math.ubc.ca/~pwalls/math-python/roots-optimization/root-finding/) and [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method) |
 | October 1 | [notes-2018-10-01](notes-week-05/notes-2018-10-01.ipynb) |  Introduction to SciPy  | [SciPy](https://scipy.org/), [NumPy](http://www.numpy.org/) and [Matplotlib](https://matplotlib.org/) |
 | October 3 | [notes-2018-10-03](notes-week-05/notes-2018-10-03.ipynb) |  NumPy arrays  | [NumPy Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html), [Matplotlib](https://matplotlib.org/) and [(more) NumPy](http://www.math.ubc.ca/~pwalls/math-python/scipy/numpy/) |
+| October 5 | [notes-2018-10-05](notes-week-05/notes-2018-10-05.ipynb) | More NumPy arrays | [NumPy arrays](https://docs.scipy.org/doc/numpy-1.15.1/reference/arrays.html) |
+| October 10 | [notes-2018-10-10](notes-week-06/notes-2018-10-10.ipynb) | Plotting with Matplotlib | [Pyplot commands](https://matplotlib.org/api/pyplot_summary.html) |
+| October 12 | [notes-2018-10-12](notes-week-06/notes-2018-10-12.ipynb) | Riemann Sums | [Riemann Sums](http://www.math.ubc.ca/~pwalls/math-python/integration/riemann-sums/) |
+| October 15 | - | Riemann Sums: Error Formulas | [Riemann Sums](http://www.math.ubc.ca/~pwalls/math-python/integration/riemann-sums/)   |
