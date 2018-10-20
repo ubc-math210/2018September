@@ -23,3 +23,5 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 | October 10 | [notes-2018-10-10](notes-week-06/notes-2018-10-10.ipynb) | Plotting with Matplotlib | [Pyplot commands](https://matplotlib.org/api/pyplot_summary.html) |
 | October 12 | [notes-2018-10-12](notes-week-06/notes-2018-10-12.ipynb) | Riemann Sums | [Riemann Sums](http://www.math.ubc.ca/~pwalls/math-python/integration/riemann-sums/) |
 | October 15 | - | Riemann Sums: Error Formulas | [Riemann Sums](http://www.math.ubc.ca/~pwalls/math-python/integration/riemann-sums/)   |
+| October 17 | [notes-2018-10-17](notes-week-07/notes-2018-10-17.ipynb) | Trapezoid Rule | [Trapezoid Rule](http://www.math.ubc.ca/~pwalls/math-python/integration/trapezoid-rule/)   |
+| October 19 | [notes-2018-10-19](notes-week-07/notes-2018-10-19.ipynb) | Trapezoid Rule: Error Formulas | [Trapezoid Rule](http://www.math.ubc.ca/~pwalls/math-python/integration/trapezoid-rule/) and [Nonelementary Integrals](https://en.wikipedia.org/wiki/Nonelementary_integral) |
