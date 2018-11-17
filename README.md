@@ -31,3 +31,7 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 | October 29 | [notes-2018-10-29](notes-week-09/notes-2018-10-29.ipynb) | Linear algebra with SciPy | [scipy.linalg documentation](https://docs.scipy.org/doc/scipy/reference/linalg.html) |
 | November 2 | [notes-2018-11-02](notes-week-09/notes-2018-11-02.ipynb) | Linear systems | [scipy.linalg.solve](https://docs.scipy.org/doc/scipy/reference/generated/scipy.linalg.solve.html#scipy.linalg.solve) |
 | November 5 | [notes-2018-11-05](notes-week-10/notes-2018-11-05.ipynb) | Gaussian elimination and interpolation | [Interpolation](https://en.wikipedia.org/wiki/Polynomial_interpolation) |
+| November 7 | [notes-2018-11-07](notes-week-10/notes-2018-11-07.ipynb) | Interpolation and linear regression | [Linear regression](https://en.wikipedia.org/wiki/Linear_regression) and [Vandermonde matrix](https://en.wikipedia.org/wiki/Vandermonde_matrix) |
+| November 9 | [notes-2018-11-09](notes-week-10/notes-2018-11-09.ipynb) | Linear regression (continued) | |
+| November 14 | [notes-2018-11-14](notes-week-11/notes-2018-11-14.ipynb) | Polynomial regression | [Polynomial regression](https://en.wikipedia.org/wiki/Polynomial_regression) |
+| November 16 | [notes-2018-11-16](notes-week-11/notes-2018-11-16.ipynb) | Eigenvalues and eigenvectors | [Eigenvalues/eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors), [simple graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)) and the [adjacency matrix](https://en.wikipedia.org/wiki/Adjacency_matrix) |
