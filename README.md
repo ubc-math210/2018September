@@ -38,3 +38,4 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 | November 19 | [notes-2018-11-19](notes-week-12/notes-2018-11-19.ipynb) | Applications: graphs, linear systems of ODEs | [Adjacency matrix](https://en.wikipedia.org/wiki/Adjacency_matrix) and [linear systems of ODEs](https://www.jirka.org/diffyqs/html/sys_chapter.html) |
 | November 21 | [notes-2018-11-21](notes-week-12/notes-2018-11-21.ipynb) | Applications: linear system of ODEs | [Linear systems of ODEs](https://www.jirka.org/diffyqs/html/sys_chapter.html) |
 | November 23 | [notes-2018-11-23](notes-week-12/notes-2018-11-23.ipynb) | Euler's method | [Euler's method](https://en.wikipedia.org/wiki/Euler_method) |
+| November 26 | [notes-2018-11-26](notes-week-13/notes-2018-11-26.ipynb) | Euler's method and scipy.integrate.odeint | [scipy.integrate.odeint](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html) |
