@@ -39,3 +39,5 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 | November 21 | [notes-2018-11-21](notes-week-12/notes-2018-11-21.ipynb) | Applications: linear system of ODEs | [Linear systems of ODEs](https://www.jirka.org/diffyqs/html/sys_chapter.html) |
 | November 23 | [notes-2018-11-23](notes-week-12/notes-2018-11-23.ipynb) | Euler's method | [Euler's method](https://en.wikipedia.org/wiki/Euler_method) |
 | November 26 | [notes-2018-11-26](notes-week-13/notes-2018-11-26.ipynb) | Euler's method and scipy.integrate.odeint | [scipy.integrate.odeint](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html) |
+| November 28 | [notes-2018-11-28](notes-week-13/notes-2018-11-28.ipynb) | Second order equations | [Vibrations](https://en.wikipedia.org/wiki/Vibration) and [Van der pol oscillator](https://en.wikipedia.org/wiki/Van_der_Pol_oscillator) |
+| November 30 | [notes-2018-11-30](notes-week-13/notes-2018-11-30.ipynb) | Planetary orbits | [Orbits](https://en.wikipedia.org/wiki/Orbit) and [Euler's 3-body problem](https://en.wikipedia.org/wiki/Euler%27s_three-body_problem) |
